@@ -1,21 +1,21 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "5d7a4106d0ec"
   },
   "options": {
     "autoRead": false,
     "self": false,
-    "limitCount": 20,
-    "limitGame": 20
+    "limitCount": 40,
+    "limitGame": 40
   },
   "exif": {
-    "packname": "zenzapi",
+    "packname": "NuBot",
     "author": "https://zenzapi.xyz"
   },
   "owner": [
-    "62812xxx"
+    "6281999117477"
   ],
-  "timezone": "Asia/Jakarta",
+  "timezone": "Asia/Makassar",
   "footer": "Powered by https://zenzapis.xyz"
 }
